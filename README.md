@@ -9,11 +9,9 @@ This project was originally submitted to the Fall 2017 edition of [HackUPC](http
 It was developed by [Ferran Conde](https://github.com/ferranconde), [Sergi Ibànyez](https://github.com/swaggaaa) and [Joaquim de la Cruz](https://github.com/Joaquimdcp).
 
 
-![Presentation 1]
-(https://i.gyazo.com/cad68a6e7ee67dff60a30e56cabc5e0b.png)  
+![Presentation 1](https://i.gyazo.com/cad68a6e7ee67dff60a30e56cabc5e0b.png)  
   
-![Presentation 2]
-(https://i.gyazo.com/3b2ac42f9258c6752b10a9e9d1845318.png)  
+![Presentation 2](https://i.gyazo.com/3b2ac42f9258c6752b10a9e9d1845318.png)  
 
 Inspiration
 --------------
